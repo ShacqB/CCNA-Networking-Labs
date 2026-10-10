@@ -20,7 +20,7 @@ Practiced connecting network devices in Cisco Packet Tracer using the correct Et
 - Auto-MDI-X allows devices to automatically adjust for different Ethernet cable types.
 
 ## Topology
-![Network Topology](topology.png)
+![Network Topology](Screenshot%202026-10-10%20151708.png)
 
 ## Files
 - `lab02.pkt` — Packet Tracer lab
