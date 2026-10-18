@@ -12,6 +12,8 @@ A collection of hands-on networking labs completed using Cisco Packet Tracer whi
 - IP addressing and subnetting
 - VLANs and switching
 - Routing protocols
+- Basic network device security
+- Cisco IOS configuration
 - Network troubleshooting
 
 ## Completed Labs
@@ -19,6 +21,7 @@ A collection of hands-on networking labs completed using Cisco Packet Tracer whi
 | Lab | Description |
 |---|---|
 | [Day 02 - Ethernet Cabling](Day-02-Ethernet-Cabling/) | Connecting network devices using appropriate cable types |
+| [Day 04 - Basic Device Security](Day-04-Basic-Device-Security/) | Configuring device hostnames, enable passwords, password encryption, and enable secrets on Cisco routers and switches |
 
 ## Goal
-Develop practical networking skills through hands-on labs, configuration, and troubleshooting.
+Develop practical networking skills through hands-on labs, device configuration, security, and troubleshooting.
